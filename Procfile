@@ -1,0 +1,1 @@
+web: gunicorn Interactive-Visualizations_and-Dashboards-Plotly.app:app
